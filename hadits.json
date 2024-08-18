@@ -1,0 +1,47 @@
+[
+  {
+    "name": "Imam Abu Dawud",
+    "slug": "abu-dawud",
+    "total": 4419
+  },
+  {
+    "name": "Imam Ahmad",
+    "slug": "ahmad",
+    "total": 4305
+  },
+  {
+    "name": "Imam Bukhari",
+    "slug": "bukhari",
+    "total": 6638
+  },
+  {
+    "name": "Imam Darimi",
+    "slug": "darimi",
+    "total": 2949
+  },
+  {
+    "name": "Imam Ibnu Majah",
+    "slug": "ibnu-majah",
+    "total": 4285
+  },
+  {
+    "name": "Imam Malik",
+    "slug": "malik",
+    "total": 1587
+  },
+  {
+    "name": "Imam Muslim",
+    "slug": "muslim",
+    "total": 4930
+  },
+  {
+    "name": "Imam Nasai",
+    "slug": "nasai",
+    "total": 5364
+  },
+  {
+    "name": "Imam Tirmidzi",
+    "slug": "tirmidzi",
+    "total": 3625
+  }
+]
